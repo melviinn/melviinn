@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @melviinn
 - 👀 I’m interested in coding web apps
-- 🌱 I’m currently learning HTML/CSS, PHP, Python, Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML/CSS, PHP, Python, Java, SQL, PostgreSQL, PlSQL
 - 📫 How to reach me : duchaufour.melvin.sio@gmail.com
 
 <!---
