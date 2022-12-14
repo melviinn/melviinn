@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **duchaufour.melvin.sio@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE11AXJAq4/ENmZE3Uetkm5hEyJtaGDKQ/view?utm_content=DAE11AXJAq4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE11AXJAq4/ENmZE3Uetkm5hEyJtaGDKQ/view?utm_content=DAE11AXJAq4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
