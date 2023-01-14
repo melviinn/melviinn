@@ -6,9 +6,9 @@
 
 - 🌱 Je suis actuellement entrain d'apprendre **Tailwind CSS, React, PostgreSQL, C**
 
-- 👨‍💻 My portfolio [soon...](soon...)
+- 👨‍💻 Mon portfolio [soon...](soon...)
 
-- 📫 How to reach me **duchaufour.melvin.sio@gmail.com**
+- 📫 Me contacter **duchaufour.melvin.sio@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
