@@ -5,7 +5,7 @@
 
 - 🌱 Je suis actuellement entrain d'apprendre **Tailwind CSS, React, PostgreSQL, C et Javascript**
 
-- 👨‍💻 Mon portfolio [Portfolio]([portfolio](https://portfolio-web.fr/melvin/))
+- 👨‍💻 Mon portfolio [Portfolio](https://portfolio-web.fr/melvin/)
 
 - 📫 Me contacter **duchaufour.melvin.sio@gmail.com**
 
