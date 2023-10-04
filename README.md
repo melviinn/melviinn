@@ -1,7 +1,7 @@
 <h1 align="center">Je suis DUCHAUFOUR Melvin 👋</h1>
 <h3 align="center">Étudiant de 19 ans passionné par l'informatique et plus précisément le développement web.</h3>
 
-- 🌱 Actuellement entrain d'apprendre C, Javascript(React), C#
+- 🌱 Actuellement entrain d'apprendre C - C#, Javascript(React)
 
 - 👨‍💻 Mon portfolio [portfolio-web/melvin](https://portfolio-web.fr/melvin/)
 
