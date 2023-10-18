@@ -3,7 +3,7 @@
 
 - 🌱 Actuellement entrain d'apprendre C - C++, Javascript(React)
 
-- 👨‍💻 Mon portfolio [portfolio-web/melvin](https://portfolio-web.fr/melvin/)
+- 👨‍💻 Mon portfolio **[portfolio-web/melvin](https://portfolio-web.fr/melvin/)**
 
 - 📫 Me contacter **duchaufour.melvin.pro@gmail.com**
 
