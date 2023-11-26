@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 I'm currently studying at 42 Paris school.<br>I want to be a web developer.<br>I'm learning C, C#, Javascript.
 
 
