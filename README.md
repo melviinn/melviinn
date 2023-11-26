@@ -12,10 +12,12 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)</br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" align-center />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</center>
 
 </br>
 </br>
