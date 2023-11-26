@@ -12,8 +12,8 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)</br>
 
-<picture class="align-left">
-  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" align-center />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
