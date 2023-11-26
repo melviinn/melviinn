@@ -2,7 +2,7 @@
 I'm currently studying at 42 Paris school.<br>I want to be a web developer.<br>I'm learning C, C#, Javascript.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_melviin.dch/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/melvin-duchaufour/) 
 
 # 💻 Tech Stack:
