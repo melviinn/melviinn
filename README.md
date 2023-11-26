@@ -12,7 +12,7 @@
 <br>
 <br>
 
-![Pushs](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)</br>
+![Pushs](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)</br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
