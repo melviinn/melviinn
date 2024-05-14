@@ -5,8 +5,10 @@
 
 
 # 🌐 Socials:
-<p align="center">
-  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_melviin.dch/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/melvin-duchaufour/)
+<a href="https://www.instagram.com/_melviin.dch/">
+  <img align="center" src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/melvin-duchaufour/)
 </p>
 
 # 💻 Tech Stack:
