@@ -7,15 +7,15 @@
 # 🌐 Socials:
 <div align="center">
   <a href="https://www.instagram.com/_melviin.dch/">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.linkedin.com/in/melvin-duchaufour/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=space,js,html,css,c,cpp,nextjs,react,github,tailwind,php,bash,mysql,symfony,space)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=space,js,html,css,c,cpp,nextjs,react,github,tailwind,php,bash,mysql,symfony,space)](https://skillicons.dev)
 <br>
 
 ![Pushs](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)</br>
