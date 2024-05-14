@@ -20,7 +20,7 @@
 <br>
 <br>
 
-[![<mduchauf>'s 42 stats](https://badge.mediaplus.ma/darkblue/<mduchauf>)](https://github.com/oakoudad/badge42)
+[![mduchauf's 42 stats](https://badge.mediaplus.ma/darkblue/mduchauf)](https://github.com/oakoudad/badge42)
 
 <br>
 <br>
