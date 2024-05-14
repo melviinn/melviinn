@@ -5,7 +5,7 @@
 
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_melviin.dch/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melvin-duchaufour/) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_melviin.dch/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/melvin-duchaufour/) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=space,js,html,css,c,cpp,nextjs,react,github,tailwind,php,bash,mysql,symfony,space)](https://skillicons.dev)
