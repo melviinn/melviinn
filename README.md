@@ -16,9 +16,11 @@
 
 # 💻 Tech Stack:
 [![Tech Stack](https://skillicons.dev/icons?i=space,js,html,css,c,cpp,nextjs,react,github,tailwind,php,bash,mysql,symfony,space)](https://skillicons.dev)
+
+<br>
 <br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?border=true&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
