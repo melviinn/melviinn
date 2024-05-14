@@ -20,6 +20,11 @@
 <br>
 <br>
 
+[![<mduchauf>'s 42 stats](https://badge.mediaplus.ma/darkblue/<mduchauf>)](https://github.com/oakoudad/badge42)
+
+<br>
+<br>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?border=true?type=horizontal&theme=dracula" />
 </div>
