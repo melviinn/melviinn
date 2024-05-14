@@ -9,8 +9,6 @@
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,nextjs,react,sass,github,vscode,tailwind,php,bash,bootstrap,mysql,symfony)](https://skillicons.dev)
-
-<br>
 <br>
 
 ![Pushs](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)</br>
