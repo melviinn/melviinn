@@ -5,11 +5,14 @@
 
 
 # 🌐 Socials:
-<a href="https://www.instagram.com/_melviin.dch/">
-  <img align="center" src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/melvin-duchaufour/)
-</p>
+<div align="center">
+  <a href="https://www.instagram.com/_melviin.dch/">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/melvin-duchaufour/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</div>
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=space,js,html,css,c,cpp,nextjs,react,github,tailwind,php,bash,mysql,symfony,space)](https://skillicons.dev)
