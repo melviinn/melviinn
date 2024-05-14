@@ -20,7 +20,7 @@
 <br>
 <br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical?border=true&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?border=true&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
