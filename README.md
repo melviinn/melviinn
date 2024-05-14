@@ -6,10 +6,10 @@
 
 # 🌐 Socials:
 <div align="center">
-  <a href="https://www.instagram.com/_melviin.dch/">
+  <a href="https://www.instagram.com/_melviin.dch/" style="text-decoration:none">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/melvin-duchaufour/">
+  <a href="https://www.linkedin.com/in/melvin-duchaufour/"  style="text-decoration:none">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
