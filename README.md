@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?border=true?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+  <img src="https://quotes-github-readme.vercel.app/api?border=true?type=horizontal&theme=dracula" />
 </div>
 
 <picture>
